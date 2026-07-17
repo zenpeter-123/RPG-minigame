@@ -5,4 +5,4 @@ I - Inventory
 Space - Attack
 Left, Right, Up, Down - Move
 
-The enemies are stronger as the player's level gets higher, they can only move on the tiled area, and sees only within the interior of that.
+The enemies are stronger as the player's level gets higher, they can move only on the tiled area, and sees only within the interior of that.
