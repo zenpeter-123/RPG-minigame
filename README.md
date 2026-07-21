@@ -1,3 +1,7 @@
+You can play the game by downloading the folder and starting the main.exe file.
+
+
+
 B - Shop
 Q - Potion
 E - Elixir
