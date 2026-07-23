@@ -1,4 +1,4 @@
-You can play the game by downloading the folder and starting the main.exe file.
+You can play the game by downloading the folder and starting the exe file.
 
 
 
