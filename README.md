@@ -14,7 +14,7 @@ The enemies are stronger as the player's level gets higher, they can move and se
 A fantasy RPG game with a unique Sphinx encounter system powered by Hidden Markov Models.
 
 
-## The Sphinx
+## The Sphinx (In progress)
 
 - The Sphinx appears when you level up and adapts to your skill!
 - 3 question categories: Mathematics, History, Literature
