@@ -14,4 +14,4 @@ The enemies are stronger as the player's level gets higher, they can move and se
 
 ## The Sphinx (In progress)
 
-The Sphinx appears when you level up and adapts to your skill! It is an HMM-powered AI - The Sphinx learns from your previous answers using Hidden Markov Models (Forward-Backward algorithm, Baum-Welch algorithm)
+The Sphinx appears when you level up and adapts to your skill. It is an HMM-powered AI - The Sphinx learns from your previous answers using Hidden Markov Models (Forward-Backward algorithm, Baum-Welch algorithm)
