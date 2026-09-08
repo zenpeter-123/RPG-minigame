@@ -16,8 +16,4 @@ A fantasy RPG game with a unique Sphinx encounter system powered by Hidden Marko
 
 ## The Sphinx (In progress)
 
-- The Sphinx appears when you level up and adapts to your skill!
-- 3 question categories: Mathematics, History, Literature
-- Smart difficulty system - The Sphinx uses AI to estimate your skills and asks questions accordingly
-- Rewards & Penalties - Answer correctly to earn XP and gold, fail and face consequences
-- HMM-powered AI - The Sphinx learns from your previous answers using Hidden Markov Models (Forward-Backward algorithm, Baum-Welch algorithm)
+The Sphinx appears when you level up and adapts to your skill! It is an HMM-powered AI - The Sphinx learns from your previous answers using Hidden Markov Models (Forward-Backward algorithm, Baum-Welch algorithm)
