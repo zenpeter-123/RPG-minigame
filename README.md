@@ -1,4 +1,5 @@
-main.exe is the game's executable file
+**Download:** the Windows executable is available under [Releases](https://github.com/zenpeter-123/RPG-minigame/releases/latest).
+
 # summary
 Developed an RPG to demonstrate algorithmic problem-solving. Implemented a BFS algorithm for enemy line-of-sight pathfinding and used vector mathematics (scalar products) to simulate randomized AI movement.
 
